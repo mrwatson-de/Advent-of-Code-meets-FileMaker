@@ -6,7 +6,8 @@ See the [Advent of Code FileMaker Community page](https://community.filemaker.co
 
 Author: MrWatson
 
-#How to use this file
+
+##How to use this file
 
 - [x] Find the "Advent of Code meets FileMaker" repo on GitHub
 - [ ] Download it
@@ -14,6 +15,6 @@ Author: MrWatson
 - [ ] Click [?] and read the help
 
 
-#Licence
+##Licence
 
 Free to use as you so desire
