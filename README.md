@@ -15,6 +15,10 @@ Author: MrWatson
 - [ ] Click [?] and read the help
 
 
+##Known Issues
+
+- The field showing the URL has refresh problems
+
 ##Licence
 
 Free to use as you so desire
