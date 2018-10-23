@@ -9,10 +9,10 @@ Author: MrWatson
 
 ##How to use this file
 
-- [x] Find the "Advent of Code meets FileMaker" repo on GitHub
+- [x] Find the ["Advent of Code meets FileMaker" repo on GitHub](https://github.com/mrwatson-de/Advent-of-Code-meets-FileMaker)
 - [ ] Download it
 - [ ] Open the AoC_Template.fmp12 file in FileMaker
-- [ ] Click [?] and read the help
+- [ ] Click [?] and follow the instructions in the help
 
 
 ##Known Issues
